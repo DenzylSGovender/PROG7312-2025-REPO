@@ -1,0 +1,28 @@
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.exe
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.deps.json
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.dll
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.pdb
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.dll
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\refint\MultiDimensionalArray.dll
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.pdb
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\ref\MultiDimensionalArray.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\obj\Debug\net8.0\refint\MultiDimensionalArray.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\MultiDimensionalArray\obj\Debug\net8.0\ref\MultiDimensionalArray.dll

@@ -1,0 +1,28 @@
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\CLASS APPS\Arrays\obj\Debug\net8.0\ref\Arrays.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 1-2\Arrays\obj\Debug\net8.0\ref\Arrays.dll
