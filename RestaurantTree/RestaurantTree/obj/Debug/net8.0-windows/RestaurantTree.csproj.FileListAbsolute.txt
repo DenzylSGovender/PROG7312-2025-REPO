@@ -1,0 +1,43 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\bin\Debug\net8.0-windows\RestaurantTree.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\bin\Debug\net8.0-windows\RestaurantTree.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\bin\Debug\net8.0-windows\RestaurantTree.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\bin\Debug\net8.0-windows\RestaurantTree.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\bin\Debug\net8.0-windows\RestaurantTree.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree_MarkupCompile.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.g.resources
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\refint\RestaurantTree.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\RestaurantTree\obj\Debug\net8.0-windows\ref\RestaurantTree.dll
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\bin\Debug\net8.0-windows\RestaurantTree.exe
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\bin\Debug\net8.0-windows\RestaurantTree.deps.json
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\bin\Debug\net8.0-windows\RestaurantTree.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\bin\Debug\net8.0-windows\RestaurantTree.dll
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\bin\Debug\net8.0-windows\RestaurantTree.pdb
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree_MarkupCompile.cache
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.g.resources
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.dll
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\refint\RestaurantTree.dll
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.pdb
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\ref\RestaurantTree.dll
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\RestaurantTree.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\RestaurantTree\RestaurantTree\obj\Debug\net8.0-windows\Restaura.89C69496.Up2Date
